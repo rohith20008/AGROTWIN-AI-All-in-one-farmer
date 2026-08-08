@@ -1,0 +1,35 @@
+.panel {
+  position: absolute;
+  background: #111;
+  border-radius: 12px;
+  padding: 10px 14px;
+  color: white;
+  box-shadow: 0 0 20px rgba(0, 255, 150, 0.2);
+  font-size: 12px;
+}
+
+.sensor-label {
+  font-size: 10px;
+  color: #aaa;
+}
+
+.value {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.glow-green {
+  color: #00ff99;
+}
+
+.glow-blue {
+  color: #00ccff;
+}
+
+.glow-yellow {
+  color: #ffcc00;
+}
+
+.glow-red {
+  color: #ff4444;
+}

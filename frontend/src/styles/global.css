@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background: #0b0f14;
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+a {
+  color: #aaa;
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+a:hover {
+  color: #00ff99;
+}
